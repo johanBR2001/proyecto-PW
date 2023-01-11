@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 20202613
 YO EL MEJOR DE PROGRA WEB
 juegos parchis
@@ -6,20 +5,16 @@ friv
 pog games
 bomberman
 sonic
-=======
-<<<<<<< HEAD
 20172768
 the last of us
 naruto storm 4
 harry potter
 mario
 horizon forbbiden west
-=======
 20192985
 COD BO2
 FIFA
 PACMAN
 BEN 10
 FUEGO Y AGUA
->>>>>>> 59e40265eca68a79daf9e0234f36422d408ecc68
->>>>>>> a7761d59be0b63c299b0daa323bd48cd44b5942a
+
